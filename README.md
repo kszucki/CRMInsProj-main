@@ -9,9 +9,11 @@ The application also has a login system. The application is not very extensive, 
 Technologies used:
 Java
 Spring-boot
+Spring Security
 RestAPI
 Hibernate
 Thymeleaf
+Maven
 Docker
 MySQL
 H2 Database
